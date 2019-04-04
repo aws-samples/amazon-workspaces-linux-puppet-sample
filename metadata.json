@@ -1,0 +1,20 @@
+{
+  "name": "amazon-linuxws",
+  "version": "0.1.0",
+  "author": "Justin V. Stokes",
+  "summary": "Puppet module to give desktop admins the ability to configure Amazon Linux based WorkSpaces.",
+  "license": "Apache-2.0",
+  "source": " ",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 5.1.0"
+    },
+    {
+      "name": "saz-sudo",
+      "version_requirement": ">= 5.0.0"
+    }
+  ]
+}

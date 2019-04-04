@@ -1,0 +1,3 @@
+pcoip.desktop_session = mate
+pcoip.server_clipboard_state = <%= $clipboard %>
+pcoip.event_filter_mode = <%= $wsloglevel %>
